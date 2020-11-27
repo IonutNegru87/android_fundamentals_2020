@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidFundamentals2020</string>
+    <string name="orange_text">This is an orange TextView</string>
+    <string name="green_text">This is an green TextView</string>
+    <string name="blue_text">This is an blue TextView</string>
+    <string name="this_is_a_button">This is a button</string>
+    <string name="this_is_a_green_button">This is a green button</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="notify_me">Notify me</string>
+    <string name="auto_backup">Auto backup</string>
+    <string name="this_is_an_edit_text">This is an EditText</string>
+    <string name="this_is_a_new_edit_text">This is a new EditText</string>
+    <string name="hello_android_fundamentals_2020">Hello Android Fundamentals 2020!</string>
+</resources>
