@@ -12,15 +12,17 @@
         android:theme="@style/Theme.AndroidFundamentals2020"
         tools:ignore="AllowBackup">
 
-        <activity android:name=".MainActivity"/>
-        
-        <activity android:name=".week2.ViewsActivity">
+        <activity android:name=".week3.LoginActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".week3.FrameLayoutActivity" />
+        <activity android:name=".week3.ScrollViewActivity" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".week2.ViewsActivity" />
     </application>
 
 </manifest>

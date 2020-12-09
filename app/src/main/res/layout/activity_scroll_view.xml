@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".week3.ScrollViewActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/scroll_square_size">
+            
+            <View
+                android:id="@+id/view_start"
+                android:layout_width="@dimen/scroll_square_size"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:background="@color/orange" />
+
+            <View
+                android:id="@+id/view_middle_two"
+                android:layout_width="@dimen/scroll_square_size"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="24dp"
+                android:layout_toEndOf="@id/view_middle_one"
+                android:background="@color/grey" />
+
+            <View
+                android:id="@+id/view_middle_one"
+                android:layout_width="@dimen/scroll_square_size"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:background="@color/black" />
+
+            <View
+                android:id="@+id/view_end"
+                android:layout_width="@dimen/scroll_square_size"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:background="@color/blue" />
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/long_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lorem_ipsum_very_long" />
+
+    </LinearLayout>
+
+</ScrollView>
