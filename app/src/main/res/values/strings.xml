@@ -1,5 +1,6 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">AndroidFundamentals2020</string>
+    <string name="app_name_recycler_view">AndroidFundamentals2020_RecyclerView</string>
     <string name="orange_text">This is an orange TextView</string>
     <string name="green_text">This is an green TextView</string>
     <string name="blue_text">This is an blue TextView</string>
@@ -13,7 +14,7 @@
     <string name="this_is_a_new_edit_text">This is a new EditText</string>
     <string name="hello_android_fundamentals_2020">Hello Android Fundamentals 2020!</string>
 
-    <string name="lorem_ipsum_very_long">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sem elit, luctus vel sollicitudin sed, porttitor ut elit. Etiam malesuada facilisis auctor. Donec in diam scelerisque, aliquet orci nec, consectetur augue. Donec magna ante, tincidunt a erat vel, porta tempor nulla. Ut vitae nisl at ipsum tristique porta nec eget velit. Fusce mi sem, auctor eu aliquam at, lacinia nec felis. Etiam volutpat faucibus lacus et interdum.
+    <string name="lorem_ipsum_very_long" tools:ignore="Typos">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sem elit, luctus vel sollicitudin sed, porttitor ut elit. Etiam malesuada facilisis auctor. Donec in diam scelerisque, aliquet orci nec, consectetur augue. Donec magna ante, tincidunt a erat vel, porta tempor nulla. Ut vitae nisl at ipsum tristique porta nec eget velit. Fusce mi sem, auctor eu aliquam at, lacinia nec felis. Etiam volutpat faucibus lacus et interdum.
 
 Integer feugiat enim et risus tempus, a fringilla quam rhoncus. Donec eu libero non nulla malesuada porta. Nunc tempus nunc vel libero fringilla mattis. Proin sem tellus, feugiat eu imperdiet at, sagittis blandit nisl. Integer leo dolor, pharetra non tortor non, vulputate mollis nisi. Nullam sit amet quam eget mi volutpat pulvinar. Integer ornare lectus eget commodo faucibus. Donec maximus nisi urna, a imperdiet purus pulvinar id. Cras eleifend aliquam mattis. Proin interdum dui quis erat convallis fringilla. Ut mollis nisl vel elit venenatis, eget tincidunt risus pretium. Vestibulum a massa elit.
 
@@ -32,7 +33,7 @@ Nulla placerat justo vitae orci aliquam dapibus. Aliquam a convallis lacus. Nunc
 Maecenas hendrerit sed leo quis placerat. Ut egestas tortor mi, id venenatis tortor ultrices sit amet. Nam sed pulvinar ante, quis auctor diam. In vel consequat urna, cursus iaculis magna. Nunc pretium euismod dignissim. Cras vel libero non nisi volutpat euismod eu vel ipsum. Donec sodales ligula sit amet urna vehicula, vitae finibus purus porttitor. Nullam sagittis posuere dui nec luctus. Aenean posuere massa suscipit odio pulvinar, nec mollis nulla volutpat. Mauris nulla ligula, varius vestibulum libero nec, imperdiet euismod justo. Morbi mattis velit et tempor lobortis. Proin massa metus, euismod sit amet faucibus iaculis, porta id massa. Ut id porttitor lectus, ut rhoncus nisl. Nam blandit pellentesque egestas. Aliquam mollis mauris leo, sit amet hendrerit metus suscipit quis. Nulla facilisi.
 
 Nulla sed scelerisque urna. Phasellus efficitur iaculis est, vel posuere tortor venenatis vel. Morbi mollis, mauris in sagittis fringilla, erat erat ultricies sapien, quis varius ante velit sit amet ipsum. Integer sodales pellentesque lorem nec molestie. Praesent pretium enim tristique, bibendum lacus ac, blandit arcu. Maecenas pretium dui nec rutrum ullamcorper. Suspendisse dapibus odio nisi, eget elementum eros elementum non. Cras vulputate, ligula ut pellentesque consectetur, leo nulla semper dolor, at rutrum dolor nunc eget massa. Vivamus pellentesque bibendum orci.</string>
-    
+
     <string name="accept_terms"><![CDATA[I accept T&C]]></string>
     <string name="submit">Submit</string>
     <string name="phone">Phone</string>
@@ -42,4 +43,10 @@ Nulla sed scelerisque urna. Phasellus efficitur iaculis est, vel posuere tortor 
     <string name="email_not_valid">Email address is not valid</string>
     <string name="phone_cannot_be_empty">Phone address cannot be empty</string>
     <string name="phone_not_valid">Phone number is not valid</string>
+    <string name="merry_little_christmas">Have yourself a merry Christmas,\nLet your heart be light\nFrom now on, our troubles will be out of sight</string>
+    <string name="let_it_snow">Let it snow</string>
+    <string name="jingles_bells">Jingles bells</string>
+    <string name="happy_holidays">Happy Holidays!</string>
+    <string name="from_ionut">From Ionut</string>
+    <string name="star_big">star big</string>
 </resources>

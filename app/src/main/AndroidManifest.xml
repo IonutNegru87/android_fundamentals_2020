@@ -11,14 +11,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidFundamentals2020"
         tools:ignore="AllowBackup">
-
-        <activity android:name=".week3.LoginActivity">
+        <activity android:name=".week4.ConstraintLayoutActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".week4.RecyclerViewActivity"
+            android:icon="@mipmap/ic_launcher_list"
+            android:label="@string/app_name_recycler_view">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".week3.LoginActivity" />
         <activity android:name=".week3.FrameLayoutActivity" />
         <activity android:name=".week3.ScrollViewActivity" />
         <activity android:name=".MainActivity" />
