@@ -14,26 +14,6 @@
     <string name="this_is_a_new_edit_text">This is a new EditText</string>
     <string name="hello_android_fundamentals_2020">Hello Android Fundamentals 2020!</string>
 
-    <string name="lorem_ipsum_very_long" tools:ignore="Typos">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse sem elit, luctus vel sollicitudin sed, porttitor ut elit. Etiam malesuada facilisis auctor. Donec in diam scelerisque, aliquet orci nec, consectetur augue. Donec magna ante, tincidunt a erat vel, porta tempor nulla. Ut vitae nisl at ipsum tristique porta nec eget velit. Fusce mi sem, auctor eu aliquam at, lacinia nec felis. Etiam volutpat faucibus lacus et interdum.
-
-Integer feugiat enim et risus tempus, a fringilla quam rhoncus. Donec eu libero non nulla malesuada porta. Nunc tempus nunc vel libero fringilla mattis. Proin sem tellus, feugiat eu imperdiet at, sagittis blandit nisl. Integer leo dolor, pharetra non tortor non, vulputate mollis nisi. Nullam sit amet quam eget mi volutpat pulvinar. Integer ornare lectus eget commodo faucibus. Donec maximus nisi urna, a imperdiet purus pulvinar id. Cras eleifend aliquam mattis. Proin interdum dui quis erat convallis fringilla. Ut mollis nisl vel elit venenatis, eget tincidunt risus pretium. Vestibulum a massa elit.
-
-Proin nisl sem, lacinia sed ipsum eget, lobortis suscipit lorem. Donec vitae scelerisque magna. Phasellus in placerat nisl. Sed varius rutrum ligula eu eleifend. Praesent consectetur, sapien ac pharetra rhoncus, neque tellus facilisis ex, vitae euismod velit justo sit amet tortor. Aliquam neque risus, dapibus sed lorem vitae, malesuada bibendum nulla. Nam feugiat dui augue, a euismod arcu porta et. Proin vehicula libero at ligula facilisis, at viverra lorem scelerisque. Proin mauris tortor, viverra sed ultricies eu, consequat ut mauris. Aliquam blandit quam ut dolor auctor pellentesque. Sed gravida ex at augue dapibus, ac aliquam nisi ultrices. Aliquam fermentum diam non ex dictum sagittis ac at felis. Nullam pretium varius metus, non dignissim metus dapibus a.
-
-Donec velit est, tincidunt a nisl nec, rutrum blandit lorem. Curabitur sit amet eros metus. Mauris vel leo non ligula tincidunt tincidunt quis sed est. Nunc ultricies dolor neque. Donec sit amet mi tellus. Nam sagittis commodo purus, sed rhoncus est. Cras luctus sapien eu arcu condimentum, et pharetra eros sagittis. Maecenas non sagittis enim. Nam sed erat libero. Cras vulputate fringilla enim, vel ultrices velit ullamcorper id. Proin non dignissim mauris, vitae tristique enim. In finibus vel tellus vitae hendrerit. Vivamus eleifend facilisis risus, ac imperdiet mi posuere sit amet.
-
-Donec at eros pharetra, bibendum enim sed, posuere erat. In eros est, placerat vitae vehicula eget, elementum vitae turpis. Nunc convallis tincidunt magna non suscipit. Aenean lobortis ex et mattis feugiat. Nunc cursus accumsan diam ut fermentum. In iaculis mi quis convallis porta. Nullam nunc tortor, malesuada non pellentesque eget, euismod quis enim. Nam sit amet vestibulum lorem. Donec sit amet tempor libero. Fusce turpis enim, ullamcorper eu massa et, ultrices tincidunt arcu. Praesent suscipit, sem a malesuada aliquam, orci tellus dapibus erat, quis lobortis diam dui eget leo. Proin ac orci nisl. Donec ante urna, posuere eget ante quis, sagittis rutrum sapien. Mauris id varius mi, bibendum congue augue.
-
-Nam eu ante massa. Nam fringilla volutpat quam, quis porta massa semper ut. Cras tempor sodales iaculis. Vestibulum leo orci, commodo eu mattis lacinia, pellentesque at odio. Etiam eu condimentum turpis. Pellentesque nec nulla a nunc pharetra pretium. Aliquam ac aliquet velit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin, ipsum sit amet gravida fermentum, odio magna maximus felis, ut hendrerit purus turpis facilisis ex. Duis consectetur, lacus vitae dapibus venenatis, tellus sem interdum lectus, dictum tincidunt elit lorem eu eros. In iaculis nisi et porta aliquet. Suspendisse ultricies, ante et imperdiet placerat, risus erat maximus ex, quis sodales leo nisi suscipit libero. Donec vulputate odio quis turpis rutrum, iaculis consectetur ligula convallis. Nulla facilisi. Vestibulum sit amet lacus purus. Nullam blandit egestas velit, id malesuada justo vestibulum a. Sed laoreet ornare dui, sit amet finibus justo pellentesque at. In tristique dolor eget sem ultricies viverra.
-
-Nulla placerat justo vitae orci aliquam dapibus. Aliquam a convallis lacus. Nunc pulvinar, ligula eu venenatis venenatis, ante est laoreet risus, quis aliquet massa tortor ac erat. Praesent ut nibh quis metus vulputate elementum eget ut lacus. Vestibulum pretium mattis pulvinar. In nec eros nec ante lacinia interdum. Nam aliquam tincidunt venenatis. Donec ultricies erat nec magna aliquam semper. Aliquam a hendrerit mauris, nec luctus quam. Integer tempor est id quam varius, sed cursus lorem congue.
-
-Maecenas hendrerit sed leo quis placerat. Ut egestas tortor mi, id venenatis tortor ultrices sit amet. Nam sed pulvinar ante, quis auctor diam. In vel consequat urna, cursus iaculis magna. Nunc pretium euismod dignissim. Cras vel libero non nisi volutpat euismod eu vel ipsum. Donec sodales ligula sit amet urna vehicula, vitae finibus purus porttitor. Nullam sagittis posuere dui nec luctus. Aenean posuere massa suscipit odio pulvinar, nec mollis nulla volutpat. Mauris nulla ligula, varius vestibulum libero nec, imperdiet euismod justo. Morbi mattis velit et tempor lobortis. Proin massa metus, euismod sit amet faucibus iaculis, porta id massa. Ut id porttitor lectus, ut rhoncus nisl. Nam blandit pellentesque egestas. Aliquam mollis mauris leo, sit amet hendrerit metus suscipit quis. Nulla facilisi.
-
-Nulla sed scelerisque urna. Phasellus efficitur iaculis est, vel posuere tortor venenatis vel. Morbi mollis, mauris in sagittis fringilla, erat erat ultricies sapien, quis varius ante velit sit amet ipsum. Integer sodales pellentesque lorem nec molestie. Praesent pretium enim tristique, bibendum lacus ac, blandit arcu. Maecenas pretium dui nec rutrum ullamcorper. Suspendisse dapibus odio nisi, eget elementum eros elementum non. Cras vulputate, ligula ut pellentesque consectetur, leo nulla semper dolor, at rutrum dolor nunc eget massa. Vivamus pellentesque bibendum orci.</string>
-
     <string name="accept_terms"><![CDATA[I accept T&C]]></string>
     <string name="submit">Submit</string>
     <string name="phone">Phone</string>
@@ -49,4 +29,51 @@ Nulla sed scelerisque urna. Phasellus efficitur iaculis est, vel posuere tortor 
     <string name="happy_holidays">Happy Holidays!</string>
     <string name="from_ionut">From Ionut</string>
     <string name="star_big">star big</string>
+    
+    <string name="open_second_activity">Open second activity</string>
+    <string name="on_second_activity">We are on the second activity</string>
+    
+    <string name="first_long_text">This is the first text block</string>
+    <string name="second_long_text">This is the second text block</string>
+    <string name="third_long_text">This is the third text block</string>
+    <string name="send">send</string>
+    <string name="write_message_here">Write message here</string>
+    <string name="message_received">Message received</string>
+
+    <string name="text_long_label" translatable="false">Long text %1$s:\n\n%2$s!</string>
+    <string name="lorem_ipsum" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam non posuere risus. Vivamus vel vestibulum dui. In id nulla ultricies, tristique ante vitae, venenatis leo. Integer imperdiet enim varius, molestie nisl eu, ultrices massa. Maecenas at erat ut nunc pellentesque rutrum. Cras dapibus mi non bibendum maximus. Praesent at erat ac erat tristique lacinia nec eget mi. Curabitur congue, metus a feugiat vestibulum, diam dui tincidunt metus, a pharetra quam orci id urna. Fusce pretium nibh tortor, vitae scelerisque nunc fermentum id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. In ac ante rutrum, blandit lorem quis, porttitor lectus.</string>
+    <string name="lorem_ipsum_long" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas consectetur tellus ipsum, lobortis dapibus ante mollis id. Phasellus eros elit, laoreet nec justo vel, sodales aliquet urna. In hac habitasse platea dictumst. Aliquam laoreet maximus magna, sit amet dignissim dui molestie in. Sed ac erat malesuada, ullamcorper dui vitae, cursus nisi. Nunc faucibus cursus egestas. Suspendisse leo est, auctor at facilisis a, luctus in sapien. Etiam vulputate elit id sodales posuere. Morbi feugiat, felis vel cursus cursus, tortor justo condimentum arcu, ac semper magna erat eu sem. Nulla ornare aliquet luctus. Proin quis tortor sed dolor pharetra vulputate ut ut erat. Phasellus dictum lectus non dignissim posuere. Aliquam elementum orci massa, ut eleifend arcu malesuada ac. Morbi cursus dolor a arcu ullamcorper sollicitudin. Pellentesque porta a dolor maximus tristique. Integer in nisi ut leo sodales porta.
+
+Quisque vitae odio urna. Nam id pharetra lacus. Quisque finibus tempor nisl, ac tempus turpis maximus finibus. Nullam ultricies tempus erat non tincidunt. Proin iaculis odio egestas, consectetur velit euismod, cursus enim. Integer nunc lacus, lobortis nec convallis a, egestas ac ligula. Pellentesque luctus nunc eget risus imperdiet, eu pharetra ligula rutrum.
+
+Pellentesque commodo id leo a sodales. Sed lobortis auctor lectus ut porta. Sed eget risus vitae dolor laoreet consequat. Ut vitae enim varius, porttitor lorem ut, eleifend urna. Ut ullamcorper vehicula eleifend. In faucibus justo vel tortor condimentum varius. Etiam tincidunt odio eu ex porttitor rhoncus. In hac habitasse platea dictumst. Maecenas euismod enim tempor nunc interdum mattis. Integer at dui sit amet lorem faucibus finibus. Proin vel odio sed nulla elementum ullamcorper. Nullam commodo accumsan tincidunt. Sed mi erat, sodales id tincidunt sit amet, mattis in quam. Ut luctus tempor fringilla. Donec vitae dolor eget mi bibendum congue sit amet et mi. Proin ultrices placerat tortor.
+
+Pellentesque efficitur ac mauris nec tempor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In arcu ligula, bibendum nec condimentum sed, sollicitudin ac ante. Etiam eget nulla ante. Vestibulum et urna vel ante posuere tempus nec sit amet eros. In pretium enim eu dolor consectetur, quis dignissim neque egestas. Duis ultricies vulputate nisi, in mattis nisl auctor vitae. Maecenas gravida dui eu metus molestie efficitur. Nam eu lacinia turpis. Morbi vitae purus et ligula facilisis mollis. Donec scelerisque, est non scelerisque facilisis, dui nulla fringilla lacus, ac commodo est purus vitae mauris. Nullam tempus ultrices nisi, quis aliquet sem aliquet in.
+
+Cras fermentum nulla nec dui vestibulum malesuada. Morbi porta dapibus vestibulum. Phasellus posuere sodales ex ac tristique. Nam fringilla pulvinar nulla, a cursus est egestas ac. Curabitur scelerisque ipsum suscipit sollicitudin rhoncus. Maecenas ac felis metus. Praesent et iaculis felis. Vestibulum porttitor, felis sed hendrerit placerat, ipsum nisi dictum arcu, nec elementum mauris metus vitae enim. Quisque posuere blandit eros non tincidunt.
+
+Nam ipsum neque, dignissim quis aliquam a, porta eu mi. Duis vel lorem iaculis, vehicula dui at, tristique felis. Curabitur consequat leo eu sem luctus commodo. Phasellus dictum, risus sed congue interdum, arcu ligula vestibulum dui, vel consectetur odio nibh vel sapien. Donec consequat finibus lacinia. Suspendisse velit sem, finibus id tellus quis, tincidunt auctor orci. Donec eget risus vitae purus elementum rhoncus. Donec vitae facilisis est, ac tincidunt enim. Duis semper felis sapien, vitae dictum neque rhoncus vel. Suspendisse lacinia purus et magna euismod tempor. Vivamus accumsan metus nisl, sed euismod lorem volutpat eu.
+
+Nullam sagittis, enim vel porttitor mollis, ipsum neque maximus tortor, sit amet vestibulum arcu ipsum at orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed blandit enim rhoncus ipsum varius, id facilisis mauris vulputate. Morbi molestie urna et nunc viverra, in placerat nisl hendrerit. Fusce sodales ultrices ornare. In molestie dui et risus ullamcorper, pharetra viverra augue porttitor. Sed pellentesque turpis eget erat sollicitudin, eget malesuada purus feugiat.
+
+Proin non dapibus nulla. Nam at lorem consectetur, viverra enim et, sollicitudin quam. Etiam pharetra justo in ante feugiat, in faucibus erat dapibus. Etiam ac libero ut nibh pulvinar pellentesque sit amet vitae urna. Ut vestibulum placerat metus vitae elementum. In posuere vitae ante et lobortis. Morbi non bibendum nisi, dignissim sagittis nulla. Cras erat mi, fringilla in interdum ac, elementum sed magna. Integer tincidunt mauris ut dignissim gravida. Sed sagittis consectetur ipsum, id feugiat ex aliquet eu. Proin vitae lacus ac orci tristique tristique. Donec fringilla porta placerat.
+
+Quisque blandit pretium maximus. Nam congue gravida est nec consectetur. Nunc suscipit facilisis lectus. Aenean blandit diam tortor. Morbi interdum leo aliquet erat elementum aliquam. Maecenas convallis mi vitae sapien convallis, quis porta mauris finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+Vestibulum bibendum tincidunt neque non malesuada. Aliquam sed sodales dui. Nulla sed consectetur velit, sit amet egestas arcu. Suspendisse dolor sem, suscipit pellentesque sodales eget, egestas et leo. Etiam est risus, ultrices nec finibus non, egestas a turpis. Curabitur posuere sit amet tortor ac vestibulum. Fusce tempor sodales neque. Mauris fermentum lectus augue, a sagittis risus posuere a. Pellentesque gravida quam eu lorem elementum congue. In sed nibh risus. Nulla blandit lobortis enim vel sollicitudin.</string>
+    <string name="no_text_via_intent" >No text received via Intent bundle!</string>
+    <string name="message" >Message</string>
+    <string name="reply_received" >Reply received</string>
+
+    <string name="hint_website" >Enter website full url</string>
+    <string name="open_website" >open website</string>
+    <string name="hint_location" >Enter location name</string>
+    <string name="open_location" >open location</string>
+    <string name="hint_share_text" >Enter text to share</string>
+    <string name="share_text" >share text</string>
+    <string name="hint_phone_number" >Enter phone number</string>
+    <string name="call" >call</string>
+    <string name="rationale_title" >We need permission to make a phone call</string>
+    <string name="rationale_desc" >In order to make a phone call we need you to allow the app the necessary permission. Without this permission this feature won\'t be available!</string>
+
 </resources>
