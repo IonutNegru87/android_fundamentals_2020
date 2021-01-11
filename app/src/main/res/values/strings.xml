@@ -75,5 +75,16 @@ Vestibulum bibendum tincidunt neque non malesuada. Aliquam sed sodales dui. Null
     <string name="call" >call</string>
     <string name="rationale_title" >We need permission to make a phone call</string>
     <string name="rationale_desc" >In order to make a phone call we need you to allow the app the necessary permission. Without this permission this feature won\'t be available!</string>
+    <string name="menu_title_home">Home</string>
+    <string name="menu_title_about_us">About us</string>
+    <string name="menu_title_contact">Contact</string>
+    <string name="menu_group_title_communication">Communication</string>
+    <string name="menu_title_share">Share</string>
 
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">This is Home fragment</string>
+    <string name="contact">This is Contact fragment</string>
+    <string name="about_us">This is About Us fragment</string>
+    <string name="personal_email">ionut.negru@scoalainformala.ro</string>
 </resources>
