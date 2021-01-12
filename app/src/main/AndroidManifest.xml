@@ -43,7 +43,12 @@
         <activity android:name=".week6.HelloFragmentActivity"/>
         <activity android:name=".week6.HelloFragmentDynamicActivity"/>
         <activity android:name=".week6.NavigationDrawerActivity"
-            android:theme="@style/Theme.AndroidFundamentals2020.NoActionBar">
+            android:theme="@style/Theme.AndroidFundamentals2020.NoActionBar"/>
+
+        <!-- Bonus -->
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashScreenTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

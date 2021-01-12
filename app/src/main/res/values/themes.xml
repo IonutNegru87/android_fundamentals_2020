@@ -23,4 +23,10 @@
 
     <style name="Theme.AndroidFundamentals2020.PopupOverlay" parent="ThemeOverlay.MaterialComponents.Light" />
 
+    <!-- Theme for splash screen  -->
+    <style name="SplashScreenTheme" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen_bg</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
 </resources>
