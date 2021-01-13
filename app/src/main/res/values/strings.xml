@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="app_name">AndroidFundamentals2020</string>
     <string name="app_name_recycler_view">AndroidFundamentals2020_RecyclerView</string>
     <string name="orange_text">This is an orange TextView</string>
@@ -29,10 +29,10 @@
     <string name="happy_holidays">Happy Holidays!</string>
     <string name="from_ionut">From Ionut</string>
     <string name="star_big">star big</string>
-    
+
     <string name="open_second_activity">Open second activity</string>
     <string name="on_second_activity">We are on the second activity</string>
-    
+
     <string name="first_long_text">This is the first text block</string>
     <string name="second_long_text">This is the second text block</string>
     <string name="third_long_text">This is the third text block</string>
@@ -61,20 +61,20 @@ Proin non dapibus nulla. Nam at lorem consectetur, viverra enim et, sollicitudin
 Quisque blandit pretium maximus. Nam congue gravida est nec consectetur. Nunc suscipit facilisis lectus. Aenean blandit diam tortor. Morbi interdum leo aliquet erat elementum aliquam. Maecenas convallis mi vitae sapien convallis, quis porta mauris finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
 Vestibulum bibendum tincidunt neque non malesuada. Aliquam sed sodales dui. Nulla sed consectetur velit, sit amet egestas arcu. Suspendisse dolor sem, suscipit pellentesque sodales eget, egestas et leo. Etiam est risus, ultrices nec finibus non, egestas a turpis. Curabitur posuere sit amet tortor ac vestibulum. Fusce tempor sodales neque. Mauris fermentum lectus augue, a sagittis risus posuere a. Pellentesque gravida quam eu lorem elementum congue. In sed nibh risus. Nulla blandit lobortis enim vel sollicitudin.</string>
-    <string name="no_text_via_intent" >No text received via Intent bundle!</string>
-    <string name="message" >Message</string>
-    <string name="reply_received" >Reply received</string>
+    <string name="no_text_via_intent">No text received via Intent bundle!</string>
+    <string name="message">Message</string>
+    <string name="reply_received">Reply received</string>
 
-    <string name="hint_website" >Enter website full url</string>
-    <string name="open_website" >open website</string>
-    <string name="hint_location" >Enter location name</string>
-    <string name="open_location" >open location</string>
-    <string name="hint_share_text" >Enter text to share</string>
-    <string name="share_text" >share text</string>
-    <string name="hint_phone_number" >Enter phone number</string>
-    <string name="call" >call</string>
-    <string name="rationale_title" >We need permission to make a phone call</string>
-    <string name="rationale_desc" >In order to make a phone call we need you to allow the app the necessary permission. Without this permission this feature won\'t be available!</string>
+    <string name="hint_website">Enter website full url</string>
+    <string name="open_website">open website</string>
+    <string name="hint_location">Enter location name</string>
+    <string name="open_location">open location</string>
+    <string name="hint_share_text">Enter text to share</string>
+    <string name="share_text">share text</string>
+    <string name="hint_phone_number">Enter phone number</string>
+    <string name="call">call</string>
+    <string name="rationale_title">We need permission to make a phone call</string>
+    <string name="rationale_desc">In order to make a phone call we need you to allow the app the necessary permission. Without this permission this feature won\'t be available!</string>
     <string name="menu_title_home">Home</string>
     <string name="menu_title_about_us">About us</string>
     <string name="menu_title_contact">Contact</string>
@@ -87,4 +87,6 @@ Vestibulum bibendum tincidunt neque non malesuada. Aliquam sed sodales dui. Null
     <string name="contact">This is Contact fragment</string>
     <string name="about_us">This is About Us fragment</string>
     <string name="personal_email">ionut.negru@scoalainformala.ro</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
 </resources>

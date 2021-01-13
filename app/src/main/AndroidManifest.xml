@@ -45,6 +45,8 @@
         <activity android:name=".week6.NavigationDrawerActivity"
             android:theme="@style/Theme.AndroidFundamentals2020.NoActionBar"/>
 
+        <activity android:name=".week7.CardViewActivity"/>
+        <activity android:name=".week7.BatteryActivity"/>
         <!-- Bonus -->
         <activity
             android:name=".SplashScreen"

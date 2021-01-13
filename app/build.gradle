@@ -13,6 +13,9 @@ android {
         versionCode 1
         versionName "1.0"
 
+        // If there are issues with vector resources
+//        vectorDrawables.useSupportLibrary = "true"
+
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 

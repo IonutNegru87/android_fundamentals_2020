@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Card.Title" parent="@style/Widget.MaterialComponents.TextView">
+        <item name="android:layout_margin">24dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Headline5
+        </item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Card.Subtitle" parent="@style/Widget.MaterialComponents.TextView">
+        <item name="android:layout_margin">24dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Subtitle1
+        </item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Widget.App.ButtonBattery" parent="@style/Widget.MaterialComponents.Button">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.Button</item>
+        <item name="shapeAppearance">@style/ShapeAppearance.App.SmallComponent</item>
+
+        <!-- Setting the attributes in in TextAppearance for material button component does not work, 
+         but we can set theme here to achieve the same result. -->
+        <!--        <item name="android:textAppearance">@style/TextAppearance.MaterialComponents.Button</item>-->
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textSize">24sp</item>
+        <!-- We do not want to set the text color here because we use the theme overlay for this -->
+        <!--        <item name="android:textColor">@color/white</item>-->
+    </style>
+
+    <style name="Widget.App.ButtonBattery.Green">
+        <item name="materialThemeOverlay">@style/ThemeOverlay.App.Button.Green</item>
+    </style>
+
+    <style name="TextAppearance.App.Button" parent="@style/TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">sans-serif-medium</item>
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="ShapeAppearance.App.SmallComponent" parent="@style/ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">cut</item>
+        <item name="cornerSize">4dp</item>
+    </style>
+
+    <style name="ThemeOverlay.App.Button" parent="">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorOnPrimary">@color/orange</item>
+    </style>
+
+    <style name="ThemeOverlay.App.Button.Green" parent="">
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>
