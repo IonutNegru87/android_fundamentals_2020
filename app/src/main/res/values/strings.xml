@@ -89,4 +89,6 @@ Vestibulum bibendum tincidunt neque non malesuada. Aliquam sed sodales dui. Null
     <string name="personal_email">ionut.negru@scoalainformala.ro</string>
     <string name="minus_sign">-</string>
     <string name="plus_sign">+</string>
+    <string name="show_date_picker">Show Date Picker</string>
+    <string name="date_selected_n">Date selected: %1$s</string>
 </resources>

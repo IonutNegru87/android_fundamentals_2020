@@ -10,7 +10,7 @@
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor" >?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
 
@@ -27,6 +27,40 @@
     <style name="SplashScreenTheme" parent="Theme.MaterialComponents.NoActionBar">
         <item name="android:windowBackground">@drawable/splash_screen_bg</item>
         <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="Theme.Dialog.DatePicker" parent="Theme.AppCompat.Light.Dialog">
+        <!--    <style name="Theme.Dialog.DatePicker" parent="ThemeOverlay.MaterialComponents.MaterialCalendar">-->
+        <!-- Calendar Header background -->
+        <item name="colorAccent">@color/dark_orange</item>
+        <!-- Year-->
+        <item name="android:textColorSecondaryInverse">@color/peach</item>
+        <!--day , month-->
+        <item name="android:textColorPrimaryInverse">@color/white</item>
+
+        <!-- Calender Day Number & Month Arrows color (< >) -->
+        <item name="android:textColorPrimary">@color/black</item>
+        <!-- Week Text Color-->
+        <item name="android:textColorSecondary">@color/grey</item>
+        <!-- Arrow border color(< >) -->
+        <item name="android:selectableItemBackgroundBorderless">@color/dark_blue</item>
+
+        <!-- Selected Item color-->
+        <item name="colorControlActivated">@color/dark_green</item>
+        <!-- Highlight item color-->
+        <item name="colorControlHighlight">@color/venetian_red</item>
+
+        <!--Calender Background color -->
+        <item name="android:windowBackground">@color/white</item>
+
+        <!-- Ok Cancel Color-->
+        <item name="android:buttonBarPositiveButtonStyle">@style/DatePickerButtonStyle</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/DatePickerButtonStyle</item>
+    </style>
+
+    <style name="DatePickerButtonStyle" parent="Base.Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/orange</item>
+        <item name="android:backgroundTint">@color/white</item>
     </style>
 
 </resources>

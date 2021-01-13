@@ -13,6 +13,11 @@
     <color name="green">#018742</color>
     <color name="grey">#32000000</color>
     <color name="blue">#2196F3</color>
+    <color name="dark_green">#295817</color>
+    <color name="dark_blue">#242A8D</color>
+    <color name="dark_orange">#FC5608</color>
+    <color name="venetian_red">#C90006</color>
     <color name="purple">#9C27B0</color>
+    <color name="peach">#FECEAC</color>
 
 </resources>
