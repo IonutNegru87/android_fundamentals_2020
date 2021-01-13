@@ -58,7 +58,7 @@ public class ThreeButtonActivity extends AppCompatActivity implements View.OnCli
             // format the text
             String text = getString(R.string.text_long_label,
                     getString(stringRes),
-                    getString(R.string.lorem_ipsum_long));
+                    getString(R.string.large_text));
             // set the text in the intent bundle
             intent.putExtra(EXTRA_TEXT_LONG, text);
         }
