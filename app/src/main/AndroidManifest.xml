@@ -4,6 +4,8 @@
     package="com.example.af2020">
     <!-- Here we define all the permissions required by the application -->
     <uses-permission android:name="android.permission.CALL_PHONE" />
+    
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
@@ -45,6 +47,7 @@
             android:name=".week7.CollapsingToolbarActivity"
             android:label="@string/title_activity_collapsing_toolbar"
             android:theme="@style/Theme.AndroidFundamentals2020.NoActionBar"/>
+        <activity android:name=".week8.NetworkActivity"/>
         <activity
             android:name=".SplashScreen"
             android:theme="@style/SplashScreenTheme">

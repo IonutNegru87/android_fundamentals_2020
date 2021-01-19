@@ -163,4 +163,9 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="accessibility_open_email">open email</string>
+    <string name="now_playing_movies">Now Playing Movies</string>
+    <string name="upcoming_movies">Upcoming Movies</string>
+    <string name="top_rated_movies">Top Rated Movies</string>
+    <string name="choose_a_request">Choose a request and wait for it\'s result</string>
+    <string name="execute_all_requests">Execute All Requests</string>
 </resources>
