@@ -168,4 +168,19 @@
     <string name="top_rated_movies">Top Rated Movies</string>
     <string name="choose_a_request">Choose a request and wait for it\'s result</string>
     <string name="execute_all_requests">Execute All Requests</string>
+    <string name="room_example">Room example</string>
+    <string name="get_data">Get data</string>
+
+    <string name="file_saved">File saved</string>
+    <string name="cannot_save">Can not save</string>
+    <string name="cannot_write_external">Can not write external</string>
+    <string name="file_name">File name</string>
+    <string name="create_file_internal">Create file internal</string>
+    <string name="read_file_internal">Read file internal</string>
+    <string name="create_file_external">Create file external</string>
+    <string name="read_file_external">Read file external</string>
+    
+    <string name="all_companies_n">All Companies:\n%1$s</string>
+    <string name="all_employees_n">All Employees:\n%1$s</string>
+    <string name="selected_x">Selected: %1$s</string>
 </resources>

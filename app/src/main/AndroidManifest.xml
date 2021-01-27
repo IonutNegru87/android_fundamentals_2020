@@ -4,10 +4,16 @@
     package="com.example.af2020">
     <!-- Here we define all the permissions required by the application -->
     <uses-permission android:name="android.permission.CALL_PHONE" />
-    
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
+    <!-- This attribute is "false" by default on apps targeting
+     Android 10 or higher. -->
+    <!-- We only do this for demo purposes, otherwise it is best to update to the new 
+    file storage strategy -->
+    <!--    <application android:requestLegacyExternalStorage="true" ... >-->
+    
     <application
+        android:requestLegacyExternalStorage="true"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -15,6 +21,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidFundamentals2020"
         tools:ignore="AllowBackup">
+        <activity android:name=".week9.room.RoomSampleActivity"/>
+        <activity android:name=".week9.FileManagementActivity"/>
         <activity android:name=".MainActivity" />
         <activity android:name=".week2.ViewsActivity" />
         <activity android:name=".week3.LoginActivity" />
@@ -46,8 +54,8 @@
         <activity
             android:name=".week7.CollapsingToolbarActivity"
             android:label="@string/title_activity_collapsing_toolbar"
-            android:theme="@style/Theme.AndroidFundamentals2020.NoActionBar"/>
-        <activity android:name=".week8.NetworkActivity"/>
+            android:theme="@style/Theme.AndroidFundamentals2020.NoActionBar" />
+        <activity android:name=".week8.NetworkActivity" />
         <activity
             android:name=".SplashScreen"
             android:theme="@style/SplashScreenTheme">

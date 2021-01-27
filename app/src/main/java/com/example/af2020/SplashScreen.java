@@ -8,6 +8,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.af2020.week7.CollapsingToolbarActivity;
 import com.example.af2020.week8.NetworkActivity;
+import com.example.af2020.week9.FileManagementActivity;
+import com.example.af2020.week9.room.RoomSampleActivity;
 
 // Usually this intermediate activity is not needed (we can apply the splash theme on any starting activity),
 // but for this course it is useful because we can redirect to the desired course without moving the launcher
@@ -25,7 +27,7 @@ public class SplashScreen extends AppCompatActivity {
         // is set directly on the window by the theme
 
         // Redirect to the desired activity
-        startActivity(new Intent(this, NetworkActivity.class));
+        startActivity(new Intent(this, RoomSampleActivity.class));
 
         // Close splash screen so that it doesn't stay in back stack
         finish(); // if we don't call this the user can actually go back to splash activity

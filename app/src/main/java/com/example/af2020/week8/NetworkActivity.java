@@ -10,6 +10,7 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.example.af2020.R;
+import com.example.af2020.week9.ApplicationData;
 
 import java.io.IOException;
 import java.util.List;
@@ -31,7 +32,23 @@ public class NetworkActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_network);
 
+        savedInstanceState.getInt("tab_pos", 1);
+        ApplicationData.getValueInSharedPref(this, "tab_pos", 1);
+        
         movieService = NetworkHelper.getRetrofit().create(MovieService.class);
+    }
+
+    @Override
+    protected void onRestoreInstanceState(@NonNull Bundle savedInstanceState) {
+        super.onRestoreInstanceState(savedInstanceState);
+    }
+
+    @Override
+    protected void onSaveInstanceState(@NonNull Bundle outState) {
+        outState.putInt("tab_pos", 1);
+        ApplicationData.setValueInSharedPref(this, "tab_pos", 1);
+        
+        super.onSaveInstanceState(outState);
     }
 
     public void getTopRatedMovies(View view) {
